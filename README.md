@@ -11,7 +11,7 @@ LinkedIn: [linkedin.com/in/paulina-gruszka](https://www.linkedin.com/in/milakrop
 -   Docker
 
 ## ![enter image description here](./Untitled.png) **FrostBite - Shop Online** ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,ts,redux,tailwind,)](https://skillicons.dev)
--   [REPOSITORY FrostBite](https://github.com/MilaKropeczka/FrostBite/) or [LIVE FrostBite](https://milakropeczka.github.io/FrostBite/)
+-   [REPOSITORY FrostBite](https://github.com/MilaKropeczka/FrostBite/) or [LIVE FrostBite](https://frostbite-pi.vercel.app/)
 
 ![enter image description here](./frostbite2.png)
 

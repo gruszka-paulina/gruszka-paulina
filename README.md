@@ -29,6 +29,6 @@ LinkedIn: [linkedin.com/in/paulina-gruszka](https://www.linkedin.com/in/milakrop
 
 Questions, feedback, or collaboration? Reach me at:
 
-- Email: gruszka-paulina@gmail.com  
+- Email: gruszka-paulina.mail@gmail.com  
 - LinkedIn: [linkedin.com/in/paulina-gruszka](https://www.linkedin.com/in/gruszka-paulina/)
   

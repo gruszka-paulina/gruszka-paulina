@@ -30,5 +30,5 @@ LinkedIn: [linkedin.com/in/gruszka-paulina](https://www.linkedin.com/in/gruszka-
 Questions, feedback, or collaboration? Reach me at:
 
 - Email: gruszka-paulina.mail@gmail.com  
-- LinkedIn: [linkedin.com/in/paulina-gruszka](https://www.linkedin.com/in/gruszka-paulina/)
+- LinkedIn: [linkedin.com/in/gruszka-paulina](https://www.linkedin.com/in/gruszka-paulina/)
   

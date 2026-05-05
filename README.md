@@ -1,4 +1,4 @@
-LinkedIn: [linkedin.com/in/paulina-gruszka](https://www.linkedin.com/in/milakropeczka/)
+LinkedIn: [linkedin.com/in/gruszka-paulina](https://www.linkedin.com/in/gruszka-paulina/)
 
 # TOOLS AND TECHNOLOGIES
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs,bootstrap,tailwind,docker)](https://skillicons.dev)

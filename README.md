@@ -20,6 +20,15 @@ LinkedIn: [linkedin.com/in/gruszka-paulina](https://www.linkedin.com/in/gruszka-
 
 ![enter image description here](./dashboard.png)
 
+## ![enter image description here](./Untitled.png) **VibeRP - UI Modules** (AltV Project) - SCREENSHOT ONLY ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,ts,redux,tailwind,)](https://skillicons.dev)
+
+![enter image description here](./viberp.png)
+![enter image description here](./viberp2.png)
+
+## ![enter image description here](./Untitled.png) **ERP System** - SCREENSHOT ONLY ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,ts,redux,tailwind,)](https://skillicons.dev)
+
+![enter image description here](./erp.png)
+
 ## ![enter image description here](./Untitled.png) **Music Player** ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,ts,)](https://skillicons.dev)
 -   [REPOSITORY MusicPlayer](https://github.com/gruszka-paulina/MusicPlayer/) or [LIVE MusicPlayer](https://gruszka-paulina.github.io/MusicPlayer/)
 

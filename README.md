@@ -25,6 +25,21 @@ LinkedIn: [linkedin.com/in/gruszka-paulina](https://www.linkedin.com/in/gruszka-
 
 ![enter image description here](./musicplayer.png)
 
+## ![enter image description here](./Untitled.png) **ForHome** ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,ts,)](https://skillicons.dev)
+-   [REPOSITORY MusicPlayer](https://github.com/gruszka-paulina/ForHome-Shop-Online/) or [LIVE MusicPlayer](https://gruszka-paulina.github.io/ForHome-Shop-Online/)
+
+![enter image description here](./ForHome.png)
+
+## ![enter image description here](./Untitled.png) **SunGroup** ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,ts,)](https://skillicons.dev)
+-   [REPOSITORY MusicPlayer](https://github.com/gruszka-paulina/React-SunGroup/) or [LIVE MusicPlayer](https://gruszka-paulina.github.io/React-SunGroup/)
+
+![enter image description here](./sungroup.png)
+
+## ![enter image description here](./Untitled.png) **Booking** ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+-   [REPOSITORY Booking](https://github.com/gruszka-paulina/Booking/) or [LIVE Booking](https://gruszka-paulina.github.io/Booking/)
+
+![enter image description here](./Booking.png)
+
 ## 📬 Get in touch!
 
 Questions, feedback, or collaboration? Reach me at:

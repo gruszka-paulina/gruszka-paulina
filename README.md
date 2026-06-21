@@ -30,7 +30,7 @@ LinkedIn: [linkedin.com/in/gruszka-paulina](https://www.linkedin.com/in/gruszka-
 ![enter image description here](./erp.png)
 
 ## ![enter image description here](./Untitled.png) **Music Player** ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,ts,)](https://skillicons.dev)
--   [REPOSITORY MusicPlayer](https://github.com/gruszka-paulina/MusicPlayer/) or [LIVE MusicPlayer](https://gruszka-paulina.github.io/MusicPlayer/)
+-   [REPOSITORY MusicPlayer](https://github.com/gruszka-paulina/MusicPlayer/) or [LIVE MusicPlayer](https://music-player-ten-beige-99.vercel.app/)
 
 ![enter image description here](./musicplayer.png)
 

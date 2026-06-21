@@ -35,12 +35,12 @@ LinkedIn: [linkedin.com/in/gruszka-paulina](https://www.linkedin.com/in/gruszka-
 ![enter image description here](./musicplayer.png)
 
 ## ![enter image description here](./Untitled.png) **ForHome** ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,ts,)](https://skillicons.dev)
--   [REPOSITORY MusicPlayer](https://github.com/gruszka-paulina/ForHome-Shop-Online/) or [LIVE MusicPlayer](https://gruszka-paulina.github.io/ForHome-Shop-Online/)
+-   [REPOSITORY ForHome](https://github.com/gruszka-paulina/ForHome-Shop-Online/) or [LIVE ForHome](https://gruszka-paulina.github.io/ForHome-Shop-Online/)
 
 ![enter image description here](./ForHome.png)
 
 ## ![enter image description here](./Untitled.png) **SunGroup** ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,ts,)](https://skillicons.dev)
--   [REPOSITORY MusicPlayer](https://github.com/gruszka-paulina/React-SunGroup/) or [LIVE MusicPlayer](https://gruszka-paulina.github.io/React-SunGroup/)
+-   [REPOSITORY SunGroup](https://github.com/gruszka-paulina/React-SunGroup/) or [LIVE SunGroup](https://gruszka-paulina.github.io/React-SunGroup/)
 
 ![enter image description here](./sungroup.png)
 

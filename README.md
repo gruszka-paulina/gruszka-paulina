@@ -29,12 +29,13 @@ LinkedIn: [linkedin.com/in/gruszka-paulina](https://www.linkedin.com/in/gruszka-
 
 ![enter image description here](./erp.png)
 
-## ![enter image description here](./Untitled.png) **ERP System** - SCREENSHOT ONLY ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,ts,redux,tailwind,)](https://skillicons.dev)
+## ![enter image description here](./Untitled.png) **giarddesign landing page** ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,)](https://skillicons.dev)
+-   [REPOSITORY giarddesign](https://github.com/gruszka-paulina/giarddesign/) or [LIVE giarddesign](https://giarddesign-five.vercel.app/)
 
 ![enter image description here](./giarddesign.png)
 
 ## ![enter image description here](./Untitled.png) **Music Player** ![enter image description here](./Untitled.png) [![My Skills](https://skillicons.dev/icons?i=react,ts,)](https://skillicons.dev)
--   [REPOSITORY giarddesign](https://github.com/gruszka-paulina/giarddesign/) or [LIVE giarddesign](https://giarddesign-five.vercel.app/)
+-   [REPOSITORY giarddesign](https://github.com/gruszka-paulina/MusicPlayer) or [LIVE Music Player](music-player-ten-beige-99.vercel.app/)
 
 ![enter image description here](./musicplayer.png)
 
